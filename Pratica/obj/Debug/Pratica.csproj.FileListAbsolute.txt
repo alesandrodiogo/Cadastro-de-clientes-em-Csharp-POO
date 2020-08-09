@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Pratica\Pratica\bin\Debug\Pratica.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Pratica\Pratica\bin\Debug\Pratica.exe
+c:\users\user\documents\visual studio 2015\Projects\Pratica\Pratica\bin\Debug\Pratica.pdb
+c:\users\user\documents\visual studio 2015\Projects\Pratica\Pratica\obj\Debug\Pratica.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Pratica\Pratica\obj\Debug\Pratica.exe
+c:\users\user\documents\visual studio 2015\Projects\Pratica\Pratica\obj\Debug\Pratica.pdb
